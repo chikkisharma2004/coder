@@ -1,1 +1,98 @@
+<html>
+    <style>
+        th {
+width: 30px;
+height: 30px;
+        }
+    </style>
+    <body><link href="class.css"
+        type="text/css" rel="stylesheet" />
+    <style type="text/css">
+        body{
+    background-color:aqua;
+    font-family:'Gill Sans';
+        }
+    </style>
+        <h1 style="position: relative;
+        text-align: center;">
+        CSE-1-3<sup>rd</sup>term-G16</h1>
+        <p1>Chitkara University,jhansla,Distt:Patiala.140401,Punjab</p1>
+        <table border="2"
+        style="position: relative;
+        left: 100px;
+        ">
 
+            <tr>
+                <th>       </th>
+                <th style="font-size:small; width: 50px;">1
+                </th>
+                <th style="font-size:small;width: 50px;">2
+                </th>
+                <th style="font-size:small; width: 50px;">3
+                </th>
+                <th style="font-size:small;width: 50px;">4
+                </th>
+                <th style="font-size:small;width: 50px">5
+                </th>
+                <th style="font-size: small;width:50px">6
+                </th>
+                <th style="font-size: small;width:50px">7
+                </th>
+                <th style="font-size: small;width:50px">8
+                </th>
+                <th style="font-size: small;width:50px">9
+                </th>
+                <th style="font-size: small;width:50px">10
+                </th>
+            </tr>
+                <tr>
+                    <th>mon</th>
+                    <td colspan="2">fee</td>
+                    <td>      </td>
+                    <td>      </td>
+                    <td>      </td>
+                    <td>      </td>
+                    <td colspan="2">DE&T</td>
+                    <td>      </td>
+                    <td>      </td>
+                </tr>
+                <tr>
+                <th>tues</th>
+                <td colspan="2">fee</td>
+                <td colspan="2">DE&T</td>
+                <td>      </td>
+                <td>      </td>r6
+                <td>      </td>
+                <td colspan="3">OS lab1</td>
+                </tr>
+                <tr>
+                    <th>wed</th>
+                    <td colspan="2">fee</td>
+                    <td colspan="2">OS</td>
+                    <td>      </td>
+                    <td colspan="2">DE&T</td>
+                    <td colspan="3">OS lab2</td>
+                </tr>
+                <tr>
+                    <th>thurs</th>
+                    <td colspan="2">fee</td>
+                    <td>      </td>
+                    <td>      </td>
+                    <td colspan="2">OS</td>
+                    <td>      </td>
+                    <td colspan="3">OS lab2</td>
+                </tr>
+                <tr>
+                    <th>fri</th>
+                    <td colspan="2">fee</td>
+                    <td>      </td>
+                    <td>      </td>
+                    <td>       </td>
+                    <td>      </td>
+                    <td>      </td>
+                    <td colspan="3">OS lab1</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
